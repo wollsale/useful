@@ -12,4 +12,4 @@ My usefull links, articles, snippets, etc.
 
 ## Bundler
 
-- [parce.js](https://parceljs.org)
+- [parcel.js](https://parceljs.org)
