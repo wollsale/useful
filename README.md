@@ -23,6 +23,10 @@ My usefull links, articles, snippets, etc.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 — [HEAD cheatsheet](https://gethead.info)
 
+### CSS
+
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [CSS Tricks](https://css-tricks.com)
 
 ### Git
 
@@ -38,3 +42,4 @@ My usefull links, articles, snippets, etc.
 
 - [Generaltor](https://coveloping.com/tools)
 - [Map](https://snazzymaps.com)
+- [Easing Gradients](https://larsenwork.com/easing-gradients/)
