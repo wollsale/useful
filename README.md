@@ -19,7 +19,7 @@ My usefull links, articles, snippets, etc.
 
 ### HTML
 
-- [HTML](http://w3c.github.io/html/)
+- [W3C](http://w3c.github.io/html/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [HEAD cheatsheet](https://gethead.info)
 
