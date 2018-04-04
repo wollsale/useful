@@ -2,8 +2,6 @@
 My usefull links, articles, snippets, etc.
 
 1. [Git](#git)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
 
 ## Git
 
