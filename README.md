@@ -35,7 +35,7 @@ My usefull links, articles, snippets, etc.
 
 ### Bundler
 
-- [parcel.js](https://parceljs.org)
+- [Parcel.js](https://parceljs.org)
 
 
 ### Misc
