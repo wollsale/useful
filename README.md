@@ -7,6 +7,7 @@ My usefull links, articles, snippets, etc.
 2. [HTML](#html)
 3. [Git](#git)
 4. [Bundler](#bundler)
+4. [Misc](#misc)
 
 
 
@@ -31,3 +32,8 @@ My usefull links, articles, snippets, etc.
 ### Bundler
 
 - [parcel.js](https://parceljs.org)
+
+
+### Misc
+
+- [Generaltor](https://coveloping.com/tools)
