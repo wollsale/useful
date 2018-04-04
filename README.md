@@ -13,9 +13,10 @@ My usefull links, articles, snippets, etc.
 
 ## CONTENT OF TABLE
 
-### Misc Doc
+### Dev Doc
 
 - [Dev Docs](http://devdocs.io)
+- [Can I Use](https://caniuse.com/#home)
 
 ### HTML
 
@@ -23,20 +24,27 @@ My usefull links, articles, snippets, etc.
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [HEAD cheatsheet](https://gethead.info)
 
-### CSS
+### CSS & SASS
 
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [CSS Tricks](https://css-tricks.com)
+- [SASS cheatsheet](https://devhints.io/sass) 
+
+### Javascript
+
+- [ES2015+ cheatsheet](https://devhints.io/es6) 
 
 ### Git
 
 - [Git cheatsheet](http://ndpsoftware.com/git-cheatsheet/previous/git-cheatsheet.html#loc=remote_repo;)
 
-
 ### Bundler
 
 - [Parcel.js](https://parceljs.org)
 
+### Code Editor
+
+- [Visual Code Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 
 ### Misc
 
