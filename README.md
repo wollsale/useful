@@ -7,7 +7,8 @@ My usefull links, articles, snippets, etc.
 2. [HTML](#html)
 3. [Git](#git)
 4. [Bundler](#bundler)
-4. [Misc](#misc)
+5. [Server](#server)
+6. [Misc](#misc)
 
 
 
@@ -51,3 +52,6 @@ My usefull links, articles, snippets, etc.
 - [Generaltor](https://coveloping.com/tools)
 - [Map](https://snazzymaps.com)
 - [Easing Gradients](https://larsenwork.com/easing-gradients/)
+
+### Server
+- [.htaccess snippets](https://github.com/phanan/htaccess)
