@@ -21,7 +21,7 @@ My usefull links, articles, snippets, etc.
 
 - [HTML](http://w3c.github.io/html/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
-— [HEAD cheatsheet](https://gethead.info)
+- [HEAD cheatsheet](https://gethead.info)
 
 ### CSS
 
