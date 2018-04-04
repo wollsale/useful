@@ -37,3 +37,4 @@ My usefull links, articles, snippets, etc.
 ### Misc
 
 - [Generaltor](https://coveloping.com/tools)
+- [Map](https://snazzymaps.com)
