@@ -1,27 +1,33 @@
 # Usefull shits
+
+## TABLE OF CONTENT
 My usefull links, articles, snippets, etc.
 
-1. [Git](#git)
+1. [Misc Doc](#miscdoc)
+2. [HTML](#html)
+3. [Git](#git)
+4. [Bundler](#bundler)
 
-1. [Bundler](#bundler)
 
 
-## Misc Doc
+## CONTENT OF TABLE
+
+### Misc Doc
 
 - [Dev Docs](http://devdocs.io)
 
-## HTML
+### HTML
 
 - [HTML](http://w3c.github.io/html/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 — [HEAD cheatsheet](https://gethead.info)
 
 
-## Git
+### Git
 
 - [Git cheatsheet](http://ndpsoftware.com/git-cheatsheet/previous/git-cheatsheet.html#loc=remote_repo;)
 
 
-## Bundler
+### Bundler
 
 - [parcel.js](https://parceljs.org)
