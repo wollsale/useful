@@ -47,11 +47,11 @@ My usefull links, articles, snippets, etc.
 
 - [Visual Code Keyboard Shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 
+### Server
+- [.htaccess snippets](https://github.com/phanan/htaccess)
+
 ### Misc
 
 - [Generaltor](https://coveloping.com/tools)
 - [Map](https://snazzymaps.com)
 - [Easing Gradients](https://larsenwork.com/easing-gradients/)
-
-### Server
-- [.htaccess snippets](https://github.com/phanan/htaccess)
