@@ -24,6 +24,7 @@ My usefull links, articles, snippets, etc.
 - [W3C](http://w3c.github.io/html/)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [HEAD cheatsheet](https://gethead.info)
+- [HTML/JS templating : Nunjucks](https://mozilla.github.io/nunjucks/)
 
 ### CSS & SASS
 
@@ -33,7 +34,8 @@ My usefull links, articles, snippets, etc.
 
 ### Javascript
 
-- [ES2015+ cheatsheet](https://devhints.io/es6) 
+- [ES2015+ cheatsheet](https://devhints.io/es6)
+- [HTML/JS templating : Nunjucks](https://mozilla.github.io/nunjucks/)
 
 ### Git
 
