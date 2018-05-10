@@ -58,3 +58,4 @@ My usefull links, articles, snippets, etc.
 - [Generaltor](https://coveloping.com/tools)
 - [Map](https://snazzymaps.com)
 - [Easing Gradients](https://larsenwork.com/easing-gradients/)
+- [The UX Playbook](https://uxplaybook.hanno.co/research/qualitative-research/user-testing.html)
